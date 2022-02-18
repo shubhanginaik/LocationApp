@@ -2,6 +2,8 @@
 
 This mini project is used for finding the location using TS
 
+![Location](./src/assets/location.png)
+
 # Steps to follow
 
 1. `npm install` (to install webpack and other dependencies)
